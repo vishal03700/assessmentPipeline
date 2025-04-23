@@ -14,6 +14,9 @@ Build a pipeline to:
 
 ---
 
+🎥 Watch the walkthrough video here:
+👉 Loom Video Walkthrough : https://www.loom.com/share/dcf744c8039a407f921330af2f7f6908
+
 ## 🧱 System Components
 
 | Component         | Description                                 |
